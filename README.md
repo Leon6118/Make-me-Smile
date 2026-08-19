@@ -8,13 +8,13 @@ Full Stack Web Application designed to manage the core operations of a dental cl
 
 
 ## Technologies
-
+```
 React          TypeScript        Node.js
 
 Express        PostgreSQL        REST API
 
 JWT            HTML5             CSS3
-
+```
 
 
 # Project Overview
