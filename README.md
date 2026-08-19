@@ -1,12 +1,13 @@
-Make Me Smile
+# Make Me Smile
 
-Dental Clinic Management Platform
+## Dental Clinic Management Platform
 
 Full Stack Web Application designed to manage the core operations of a dental clinic, including patients, specialist, appointments, clinical history and user access.
 
 
 
-Technologies
+
+## Technologies
 
 React
 TypeScript
@@ -21,13 +22,16 @@ Git
 
 
 
-Project Overview
+
+# Project Overview
+
 
 ## Overview
 
 Make Me Smile is a full stack web application developed to centralize and streamline the management of a dental clinic.
 
 The platform was designed with a separation between frontend, backend and database layers, allowing the application to scale and evolve independently.
+
 
 
 ## Main Features
@@ -44,8 +48,10 @@ The platform was designed with a separation between frontend, backend and databa
 - Responsive user interface
 
 
+
 ## Architecture
 
+```text
 Frontend
 React + TypeScript
         │
@@ -60,6 +66,7 @@ Database
 PostgreSQL
 
 
+
 ## Project Structure
 
 ```text
@@ -68,5 +75,4 @@ make-me-smile/
 ├── backend/
 ├── database/
 └── README.md
-
 
